@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    public static void moveRobot(Robot robot, int toX, int toY) {
+        robot.stepForward(); // your implementation here
+    }
+  learner_created: false
+- name: src/Robot.java
+  visible: true
+  learner_created: true
+- name: src/Direction.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/2180
+status: Failed
+record: -1

@@ -1,0 +1,24 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    public class Main {
+
+        public static void main(String[] args) {
+
+        }
+    }
+
+    /* At least two constants start with STAR
+    enum Secret {
+        STAR, CRASH, START, // ...
+    }
+    */
+  learner_created: false
+- name: src/Solar.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/2970
+status: Solved
+record: -1

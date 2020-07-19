@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Coffee_Machine-task_main" target="11" />
+      <module name="Coffee_Machine-task_test" target="11" />
+      <module name="Problems-A_simple_calculator_main" target="11" />
+      <module name="Problems-A_simple_calculator_test" target="11" />
+      <module name="Problems-Balance_management_main" target="11" />
+      <module name="Problems-Balance_management_test" target="11" />
+      <module name="Problems-Currencies_main" target="11" />
+      <module name="Problems-Currencies_test" target="11" />
+      <module name="Problems-Danger_levels_main" target="11" />
+      <module name="Problems-Danger_levels_test" target="11" />
+      <module name="Problems-Days_of_week_main" target="11" />
+      <module name="Problems-Days_of_week_test" target="11" />
+      <module name="Problems-Direction_main" target="11" />
+      <module name="Problems-Direction_test" target="11" />
+      <module name="Problems-From_string_to_a_number_main" target="11" />
+      <module name="Problems-From_string_to_a_number_test" target="11" />
+      <module name="Problems-In_a_box_main" target="11" />
+      <module name="Problems-In_a_box_test" target="11" />
+      <module name="Problems-Inner_boxes_main" target="11" />
+      <module name="Problems-Inner_boxes_test" target="11" />
+      <module name="Problems-Robot_control_main" target="11" />
+      <module name="Problems-Robot_control_test" target="11" />
+      <module name="Problems-The_secret_enumeration_main" target="11" />
+      <module name="Problems-The_secret_enumeration_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

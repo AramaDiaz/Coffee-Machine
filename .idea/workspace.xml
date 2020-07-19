@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0566864-64a1-439c-a996-f8ab3754b3d4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZlLhT3l5VzY90cMIyOnUae2yYZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="DangerLevel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DangerLevel" />
+      <module name="Problems-Danger_levels_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Balance_management_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-Robot_control_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Problems-The_secret_enumeration_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solar" />
+      <module name="Problems-The_secret_enumeration_main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Solar" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DangerLevel" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0566864-64a1-439c-a996-f8ab3754b3d4" name="Default Changelist" comment="" />
+      <created>1585408852661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585408852661</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="823" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1586613803315">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="823" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1586613803315" />
+    <state x="677" y="311" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586458933063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="311" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586458933063" />
+    <state x="795" y="261" key="FileChooserDialogImpl" timestamp="1585490010415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="795" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585490010415" />
+    <state width="1430" height="276" key="GridCell.Tab.0.bottom" timestamp="1586617003535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1430" height="276" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586617003535" />
+    <state width="1430" height="276" key="GridCell.Tab.0.center" timestamp="1586617003534">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1430" height="276" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586617003534" />
+    <state width="1430" height="276" key="GridCell.Tab.0.left" timestamp="1586617003534">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1430" height="276" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586617003534" />
+    <state width="1430" height="276" key="GridCell.Tab.0.right" timestamp="1586617003534">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1430" height="276" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586617003534" />
+    <state x="537" y="147" key="SettingsEditor" timestamp="1586526981879">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="537" y="147" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586526981879" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1586023861911">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586023861911" />
+    <state x="895" y="261" width="672" height="678" key="search.everywhere.popup" timestamp="1586373545427">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="895" y="261" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586373545427" />
+  </component>
+</project>
